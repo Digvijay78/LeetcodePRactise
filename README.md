@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0169-majority-element) |
+| [0792-binary-search](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
