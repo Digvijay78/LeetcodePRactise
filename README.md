@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interviEw! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
