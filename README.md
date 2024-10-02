@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interviEw! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0948-sort-an-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Digvijay78/LeetcodePRactise/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interviEw! - Created using 
 | [0075-sort-colors](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Digvijay78/LeetcodePRactise/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interviEw! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Digvijay78/LeetcodePRactise/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
