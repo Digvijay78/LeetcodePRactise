@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interviEw! - Created using 
 | [0035-search-insert-position](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interviEw! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interviEw! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0283-move-zeroes) |
 ## Heap (Priority Queue)
 |  |
