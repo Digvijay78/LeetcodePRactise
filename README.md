@@ -105,5 +105,10 @@ A collection of LeetCode questions to ace the coding interviEw! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0014-longest-common-prefix) |
 | [0782-jewels-and-stones](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0782-jewels-and-stones) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
