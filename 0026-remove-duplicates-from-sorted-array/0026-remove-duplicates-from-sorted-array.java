@@ -1,27 +1,23 @@
 class Solution {
-
-    public int getUniqueElement(int[] nums){
-
-        int count =1;
-        int checkedVariable = nums[0];
-
-          for(int i=1; i<nums.length; i++){
-
-            if(nums[i] != checkedVariable){
-                nums[count] = nums[i];
-                count++;
-                checkedVariable = nums[i];
-            }
-          }
-
-          return count;
-    }
-
     public int removeDuplicates(int[] nums) {
         
+        Set<Integer> s = new HashSet<>();
 
-        int uniqueElement = getUniqueElement(nums);
+        for(int i =0; i< nums.length; i++){
+                s.add(nums[i]);
+        }
+        
+        List<Integer> temp = new ArrayList<>(s);
 
-        return uniqueElement;
+        Collections.sort(temp);
+        int count =0;
+
+        for(int i: temp){
+            nums[count] = i;
+            count++;
+        }
+
+        return s.size(); 
+
     }
 }
