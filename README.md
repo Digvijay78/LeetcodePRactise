@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interviEw! - Created using 
 | [0035-search-insert-position](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0268-missing-number) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interviEw! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0268-missing-number) |
 ## Simulation
 |  |
