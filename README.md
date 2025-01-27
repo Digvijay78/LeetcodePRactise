@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interviEw! - Created using 
 | [0283-move-zeroes](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0948-sort-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Digvijay78/LeetcodePRactise/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interviEw! - Created using 
 | [0169-majority-element](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0782-jewels-and-stones) |
 ## Divide and Conquer
 |  |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interviEw! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
