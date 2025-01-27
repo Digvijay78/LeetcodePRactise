@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interviEw! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0948-sort-an-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Digvijay78/LeetcodePRactise/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Digvijay78/LeetcodePRactise/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
