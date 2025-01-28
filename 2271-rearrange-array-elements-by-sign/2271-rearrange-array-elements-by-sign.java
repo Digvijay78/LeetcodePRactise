@@ -1,29 +1,22 @@
 class Solution {
     public int[] rearrangeArray(int[] nums) {
          
-         List<Integer> positive = new ArrayList<>();
-         List<Integer> negative = new ArrayList<>();
+         int[] ans = new int[nums.length];
+
+         int pIndex =0;
+         int nIndex = 1;
 
          for(int i =0; i<nums.length ; i++){
 
-            if(nums[i] >=0  ) positive.add(nums[i]);
-            else negative.add(nums[i]);
-         }
-             
-             int pCount =0;
-             int nCount = 0;
-        for(int i =0; i<nums.length ; i++){
-
-           if(i %2 ==0){
-            nums[i] = positive.get(pCount);
-            pCount++;
-           } else {
-            nums[i] = negative.get(nCount);
-            nCount++;
-           } 
+            if(nums[i] >= 0 ){
+                ans[pIndex] = nums[i];
+                pIndex += 2;
+            }else {
+                ans[nIndex] = nums[i];
+                nIndex += 2;
+            }
          }
 
-         return nums;
-
+         return ans;
     }
 }
