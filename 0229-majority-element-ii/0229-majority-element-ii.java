@@ -19,19 +19,47 @@ class Solution {
             return ans;
         }
 
-        HashMap<Integer, Integer> mpp = new HashMap<>();
-           
-           for(int i =0; i< nums.length ; i++){
-            mpp.put(nums[i], mpp.getOrDefault(nums[i],0)+1);
-           }
+        int first = nums[0];
+        int firstCount = 0;
 
-           for(Map.Entry<Integer,Integer> entry : mpp.entrySet()){
-              
-              if(entry.getValue() > nums.length/3 ){
-                ans.add(entry.getKey());
-              }
-           }
+        int second = Integer.MIN_VALUE;;
+        int secondCount = 0;
 
+        for(int i =0; i< nums.length ; i++){
+
+           if(firstCount ==0 && nums[i] != second  ){
+            first = nums[i];
+            firstCount++;
+           }else if(secondCount == 0 && nums[i] != first ){
+            second = nums[i];
+            secondCount++;
+           }else if(nums[i] == first ){
+            firstCount++;
+           }else if(nums[i] == second ){
+            secondCount++;
+           } else {
+            firstCount--;
+            secondCount--;
+           }
+        }
+
+        if(firstCount ==0 && secondCount ==0){
+            return ans;
+        }
+
+       int c1 =0;
+       int c2 =0;
+       for(int i =0 ; i<nums.length ; i++){
+          if(nums[i] == first ) c1++;
+
+          if(nums[i] == second ) c2++;
+       }
+
+       if(c1 > nums.length/3) ans.add(first);
+       if(c2>nums.length/3) ans.add(second);
+
+
+       
            return ans;
     }
 }
