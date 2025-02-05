@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interviEw! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Digvijay78/LeetcodePRactise/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interviEw! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0014-longest-common-prefix) |
+| [0151-reverse-words-in-a-string](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0151-reverse-words-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0782-jewels-and-stones) |
 | [1078-remove-outermost-parentheses](https://github.com/Digvijay78/LeetcodePRactise/tree/master/1078-remove-outermost-parentheses) |
 ## Trie
