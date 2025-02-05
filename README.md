@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interviEw! - Created using 
 | [0001-two-sum](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interviEw! - Created using 
 | [0013-roman-to-integer](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0205-isomorphic-strings) |
 | [0782-jewels-and-stones](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0782-jewels-and-stones) |
 | [1078-remove-outermost-parentheses](https://github.com/Digvijay78/LeetcodePRactise/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Digvijay78/LeetcodePRactise/tree/master/2032-largest-odd-number-in-string) |
