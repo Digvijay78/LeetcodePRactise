@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interviEw! - Created using 
 | [0070-climbing-stairs](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0268-missing-number) |
+| [2032-largest-odd-number-in-string](https://github.com/Digvijay78/LeetcodePRactise/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interviEw! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0151-reverse-words-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0782-jewels-and-stones) |
 | [1078-remove-outermost-parentheses](https://github.com/Digvijay78/LeetcodePRactise/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/Digvijay78/LeetcodePRactise/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interviEw! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Digvijay78/LeetcodePRactise/tree/master/1078-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Digvijay78/LeetcodePRactise/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
