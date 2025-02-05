@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interviEw! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0205-isomorphic-strings) |
 | [0782-jewels-and-stones](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Digvijay78/LeetcodePRactise/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Digvijay78/LeetcodePRactise/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interviEw! - Created using 
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/Digvijay78/LeetcodePRactise/tree/master/2032-largest-odd-number-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
