@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interviEw! - Created using 
 | [0013-roman-to-integer](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0014-longest-common-prefix) |
 | [0782-jewels-and-stones](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0782-jewels-and-stones) |
+| [1078-remove-outermost-parentheses](https://github.com/Digvijay78/LeetcodePRactise/tree/master/1078-remove-outermost-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interviEw! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Digvijay78/LeetcodePRactise/tree/master/0560-subarray-sum-equals-k) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Digvijay78/LeetcodePRactise/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
